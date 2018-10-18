@@ -1,0 +1,586 @@
+C:\Users\denie\source\repos\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\denie\source\repos\App1\App1\bin\Debug\App1.dll
+C:\Users\denie\source\repos\App1\App1\bin\Debug\App1.pdb
+C:\Users\denie\source\repos\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\denie\source\repos\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\denie\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\denie\source\repos\App1\App1\obj\Debug\App1.dll
+C:\Users\denie\source\repos\App1\App1\obj\Debug\App1.pdb
+C:\Users\denie\source\repos\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\values\styles.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\menu\edit_menus.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+C:\Users\denie\source\repos\App1\App1\obj\Debug\res\values\colors.xml
+C:\Users\denie\source\repos\App1\App1\obj\Debug\R.cs.flag
+C:\Users\denie\source\repos\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\denie\source\repos\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\denie\source\repos\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+D:\App1\App1\bin\Debug\App1.dll
+D:\App1\App1\bin\Debug\App1.pdb
+D:\App1\App1\bin\Debug\App1.App1.apk
+D:\App1\App1\bin\Debug\App1.App1-Signed.apk
+D:\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+D:\App1\App1\obj\Debug\App1.dll
+D:\App1\App1\obj\Debug\App1.pdb
+D:\App1\App1\obj\Debug\android\bin\App1.App1.apk
+D:\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+D:\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+D:\App1\App1\obj\Debug\res\layout\main.xml
+D:\App1\App1\obj\Debug\res\values\strings.xml
+D:\App1\App1\obj\Debug\res\values\styles.xml
+D:\App1\App1\obj\Debug\res\menu\edit_menus.xml
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+D:\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+D:\App1\App1\obj\Debug\res\values\colors.xml
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+D:\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+D:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+D:\App1\App1\obj\Debug\R.cs.flag
+D:\App1\App1\obj\Debug\uploadflags.txt
+D:\App1\App1\bin\Debug\App1.dll.mdb
+D:\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+D:\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+D:\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+D:\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+G:\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+G:\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+G:\App1\App1\obj\Debug\App1.dll
+G:\App1\App1\obj\Debug\App1.pdb
+G:\App1\App1\bin\Debug\App1.dll
+G:\App1\App1\bin\Debug\App1.pdb
+G:\App1\App1\bin\Debug\App1.App1.apk
+G:\App1\App1\bin\Debug\App1.App1-Signed.apk
+G:\App1\App1\obj\Debug\android\bin\App1.App1.apk
+G:\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+G:\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+G:\App1\App1\obj\Debug\res\layout\main.xml
+G:\App1\App1\obj\Debug\res\values\strings.xml
+G:\App1\App1\obj\Debug\res\values\styles.xml
+G:\App1\App1\obj\Debug\res\menu\edit_menus.xml
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+G:\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+G:\App1\App1\obj\Debug\res\values\colors.xml
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+G:\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+G:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+G:\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+G:\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+G:\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+G:\App1\App1\obj\Debug\R.cs.flag
+G:\App1\App1\obj\Debug\uploadflags.txt
+H:\App1\App1\bin\Debug\App1.dll
+H:\App1\App1\bin\Debug\App1.pdb
+H:\App1\App1\bin\Debug\App1.App1.apk
+H:\App1\App1\bin\Debug\App1.App1-Signed.apk
+H:\App1\App1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+H:\App1\App1\bin\Debug\Xamarin.Android.Support.Compat.dll
+H:\App1\App1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+H:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+H:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+H:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+H:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+H:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+H:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+H:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+H:\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+H:\App1\App1\obj\Debug\App1.csproj.CopyComplete
+H:\App1\App1\obj\Debug\App1.dll
+H:\App1\App1\obj\Debug\App1.pdb
+H:\App1\App1\obj\Debug\android\bin\App1.App1.apk
+H:\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+H:\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+H:\App1\App1\obj\Debug\res\layout\main.xml
+H:\App1\App1\obj\Debug\res\values\strings.xml
+H:\App1\App1\obj\Debug\res\values\styles.xml
+H:\App1\App1\obj\Debug\res\menu\edit_menus.xml
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+H:\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+H:\App1\App1\obj\Debug\res\values\colors.xml
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+H:\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+H:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+H:\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+H:\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+H:\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+H:\App1\App1\obj\Debug\res\menu\possible_matchings_menu.xml
+H:\App1\App1\obj\Debug\res\drawable\buckingham_guards.jpg
+H:\App1\App1\obj\Debug\res\drawable\pompidou_centre.jpg
+H:\App1\App1\obj\Debug\R.cs.flag
+H:\App1\App1\obj\Debug\R.txt
+H:\App1\App1\obj\Debug\uploadflags.txt
+H:\App1\App1\bin\Debug\Mono.Android.pdb
+H:\App1\App1\bin\Debug\mscorlib.pdb
+H:\App1\App1\bin\Debug\System.Core.pdb
+H:\App1\App1\bin\Debug\System.pdb
+H:\App1\App1\bin\Debug\System.Xml.pdb
+H:\App1\App1\bin\Debug\System.ComponentModel.Composition.pdb
+H:\App1\App1\bin\Debug\System.Net.Http.pdb
+H:\App1\App1\bin\Debug\System.Runtime.Serialization.pdb
+H:\App1\App1\bin\Debug\System.ServiceModel.Internals.pdb
+H:\App1\App1\bin\Debug\Mono.Security.pdb
+H:\App1\App1\obj\Debug\linksrc\Mono.Android.pdb
+H:\App1\App1\obj\Debug\linksrc\mscorlib.pdb
+H:\App1\App1\obj\Debug\linksrc\System.Core.pdb
+H:\App1\App1\obj\Debug\linksrc\System.pdb
+H:\App1\App1\obj\Debug\linksrc\System.Xml.pdb
+H:\App1\App1\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+H:\App1\App1\obj\Debug\linksrc\System.Net.Http.pdb
+H:\App1\App1\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+H:\App1\App1\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+H:\App1\App1\obj\Debug\linksrc\Mono.Security.pdb
+H:\App1\App1\obj\Debug\linksrc\App1.dll.mdb
+H:\App1\App1\bin\Debug\App1.dll.mdb
+H:\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+H:\App1\App1\obj\Debug\android\assets\Mono.Android.pdb
+H:\App1\App1\obj\Debug\android\assets\Mono.Security.pdb
+H:\App1\App1\obj\Debug\android\assets\mscorlib.pdb
+H:\App1\App1\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+H:\App1\App1\obj\Debug\android\assets\System.Core.pdb
+H:\App1\App1\obj\Debug\android\assets\System.Net.Http.pdb
+H:\App1\App1\obj\Debug\android\assets\System.pdb
+H:\App1\App1\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+H:\App1\App1\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+H:\App1\App1\obj\Debug\android\assets\System.Xml.pdb
+H:\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+I:\App1\App1\bin\Debug\App1.dll
+I:\App1\App1\bin\Debug\App1.pdb
+I:\App1\App1\bin\Debug\App1.App1.apk
+I:\App1\App1\bin\Debug\App1.App1-Signed.apk
+I:\App1\App1\bin\Debug\Newtonsoft.Json.dll
+I:\App1\App1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+I:\App1\App1\bin\Debug\Xamarin.Android.Support.Compat.dll
+I:\App1\App1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+I:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+I:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+I:\App1\App1\bin\Debug\Newtonsoft.Json.xml
+I:\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+I:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+I:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+I:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+I:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+I:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+I:\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+I:\App1\App1\obj\Debug\App1.dll
+I:\App1\App1\obj\Debug\App1.pdb
+I:\App1\App1\obj\Debug\android\bin\App1.App1.apk
+I:\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+I:\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+I:\App1\App1\obj\Debug\res\layout\main.xml
+I:\App1\App1\obj\Debug\res\values\strings.xml
+I:\App1\App1\obj\Debug\res\values\styles.xml
+I:\App1\App1\obj\Debug\res\menu\edit_menus.xml
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+I:\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+I:\App1\App1\obj\Debug\res\values\colors.xml
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+I:\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+I:\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+I:\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+I:\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+I:\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+I:\App1\App1\obj\Debug\res\menu\possible_matchings_menu.xml
+I:\App1\App1\obj\Debug\res\drawable\buckingham_guards.jpg
+I:\App1\App1\obj\Debug\res\drawable\pompidou_centre.jpg
+I:\App1\App1\obj\Debug\R.cs.flag
+I:\App1\App1\obj\Debug\uploadflags.txt
+I:\App1\App1\bin\Debug\App1.dll.mdb
+I:\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+G:\App1\App1\bin\Debug\Newtonsoft.Json.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.Compat.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+G:\App1\App1\bin\Debug\Newtonsoft.Json.xml
+G:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+G:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+G:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+G:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+G:\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+G:\App1\App1\obj\Debug\res\menu\possible_matchings_menu.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\App1.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\App1.pdb
+C:\Users\denie\Desktop\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\denie\Desktop\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\denie\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\denie\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\denie\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\denie\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\denie\Desktop\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\denie\Desktop\App1\App1\obj\Debug\App1.dll
+C:\Users\denie\Desktop\App1\App1\obj\Debug\App1.pdb
+C:\Users\denie\Desktop\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\values\styles.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\menu\edit_menus.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\values\colors.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\menu\possible_matchings_menu.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\R.cs.flag
+C:\Users\denie\Desktop\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.dll.config
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\App1.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\App1.pdb
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Math.Core.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Math.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Statistics.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Math.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Math.Core.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Accord.Statistics.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\App1.dll
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\App1.pdb
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\layout\additionaldetails.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\layout\possiblematchings.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\values\styles.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\menu\edit_menus.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\back.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\menu\bottom_menu.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\back.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\back.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\continue1.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\values\colors.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\camera.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\camera.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\camera.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxhdpi\camera.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xxxhdpi\camera.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-hdpi\map.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-mdpi\map.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\mipmap-xhdpi\map.png
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\menu\possible_matchings_menu.xml
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\drawable\buckingham_guards.jpg
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\res\drawable\pompidou_centre.jpg
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\R.cs.flag
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Denieke vd Velde\Desktop\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Denieke vd Velde\Desktop\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+G:\App1\App1\bin\Debug\Accord.dll.config
+G:\App1\App1\bin\Debug\Accord.dll
+G:\App1\App1\bin\Debug\Accord.MachineLearning.dll
+G:\App1\App1\bin\Debug\Accord.Math.Core.dll
+G:\App1\App1\bin\Debug\Accord.Math.dll
+G:\App1\App1\bin\Debug\Accord.Statistics.dll
+G:\App1\App1\bin\Debug\Accord.xml
+G:\App1\App1\bin\Debug\Accord.MachineLearning.xml
+G:\App1\App1\bin\Debug\Accord.Math.xml
+G:\App1\App1\bin\Debug\Accord.Math.Core.xml
+G:\App1\App1\bin\Debug\Accord.Statistics.xml
+G:\App1\App1\bin\Debug\App1.dll.mdb
+G:\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.dll.config
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.MachineLearning.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Math.Core.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Math.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Statistics.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.MachineLearning.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Math.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Math.Core.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Accord.Statistics.xml
+C:\Users\denie\Desktop\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\denie\Desktop\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\denie\Desktop\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\drawable\sireafish.ico
+C:\Users\denie\Desktop\App1\App1\obj\Debug\res\drawable\fishlet.png
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.Geolocator.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.Permissions.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.Geolocator.xml
+C:\Users\denie\Desktop\App1\App1\bin\Debug\Plugin.Permissions.xml
+G:\App1\App1\bin\Debug\Plugin.CurrentActivity.dll
+G:\App1\App1\bin\Debug\Plugin.Geolocator.dll
+G:\App1\App1\bin\Debug\Plugin.Permissions.dll
+G:\App1\App1\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+G:\App1\App1\bin\Debug\Plugin.CurrentActivity.xml
+G:\App1\App1\bin\Debug\Plugin.Geolocator.xml
+G:\App1\App1\bin\Debug\Plugin.Permissions.xml
+G:\App1\App1\obj\Debug\res\drawable\sireafish.ico
+G:\App1\App1\obj\Debug\res\drawable\fishlet.png
+obj\Debug\linksrc\App1.dll.mdb

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Fishify</string>
+  <string name="additional_details">Additional Details</string>
+  <string name="possible_matchings">Possible Matching</string>
+  <string name="describe_the_fish">Please describe the fish by selecting the applicable values below</string>
+  <string name="promptBody">Enter body shape</string>
+  <string name="promptBodyLength">Enter body length</string>
+  <string name="promptMouth">Enter mouth shape</string>
+  <string name="promptTail">Enter tail shape</string>
+  <string name="promptBackSpine">Enter back spine shape</string>
+
+
+</resources>

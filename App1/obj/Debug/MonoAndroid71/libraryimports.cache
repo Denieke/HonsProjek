@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments>
+    <ManifestDocument>obj\\Debug\MonoAndroid71\lp\11\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\\Debug\MonoAndroid71\lp\12\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\\Debug\MonoAndroid71\lp\13\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\\Debug\MonoAndroid71\lp\14\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\\Debug\MonoAndroid71\lp\15\jl\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\\Debug\MonoAndroid71\lp\10\jl\support-annotations.jar</Jar>
+    <Jar>obj\\Debug\MonoAndroid71\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>obj\\Debug\MonoAndroid71\lp\12\jl\classes.jar</Jar>
+    <Jar>obj\\Debug\MonoAndroid71\lp\13\jl\bin\classes.jar</Jar>
+    <Jar>obj\\Debug\MonoAndroid71\lp\14\jl\classes.jar</Jar>
+    <Jar>obj\\Debug\MonoAndroid71\lp\15\jl\classes.jar</Jar>
+  </Jars>
+</Paths>

@@ -1,0 +1,16 @@
+Accord
+Accord.MachineLearning
+Accord.Math.Core
+Accord.Math
+Accord.Statistics
+Newtonsoft.Json
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions
+System.Runtime
+Xamarin.Android.Support.Annotations
+Xamarin.Android.Support.Compat
+Xamarin.Android.Support.Core.UI
+Xamarin.Android.Support.Core.Utils
+Xamarin.Android.Support.v7.CardView
+Xamarin.Android.Support.v7.RecyclerView

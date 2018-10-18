@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\10\jl\support-annotations.jar</Jar>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\12\jl\classes.jar</Jar>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\13\jl\bin\classes.jar</Jar>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\14\jl\classes.jar</Jar>
+    <Jar>I:\App1\App1\obj\Debug\MonoAndroid71\lp\15\jl\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>I:\App1\App1\obj\Debug\MonoAndroid71\lp\14\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>I:\App1\App1\obj\Debug\MonoAndroid71\lp\15\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>I:\App1\App1\obj\Debug\MonoAndroid71\lp\14.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>I:\App1\App1\obj\Debug\MonoAndroid71\lp\15.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
